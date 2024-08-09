@@ -9,8 +9,8 @@ This is a simple Tic-Tac-Toe game implemented using vanilla JavaScript, HTML, an
 -**Reset Button**: Restart the game at any time to play again.
 
 ## Project Structure
--**index.html:** The main HTML file containing the game board and reset button.
--**style.css:** The CSS file for styling the game board and UI elements.
+- `index.html`: The main HTML file containing the game board and reset button.
+-`style.css`: The CSS file for styling the game board and UI elements.
 -**script.js:** The JavaScript file containing the game logic and event handling.
 
 ## Game Logic Overview

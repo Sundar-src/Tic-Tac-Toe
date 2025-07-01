@@ -27,3 +27,7 @@ This is a simple Tic-Tac-Toe game implemented using vanilla JavaScript, HTML, an
 
 ## Demo
 You can see the live demo here - https://tic-tac-toe-game20.netlify.app
+
+
+## 📷 Preview:
+![Card Slider Preview](./Assets/screenshot.png)
